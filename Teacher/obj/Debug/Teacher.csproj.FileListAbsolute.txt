@@ -1,0 +1,9 @@
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\Teacher\bin\Debug\Teacher.dll
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\Teacher\bin\Debug\Teacher.pdb
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\Teacher\obj\Debug\Teacher.csproj.AssemblyReference.cache
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\Teacher\obj\Debug\Teacher.csproj.CoreCompileInputs.cache
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\Teacher\obj\Debug\Teacher.dll
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\Teacher\obj\Debug\Teacher.pdb
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\Teacher\bin\Debug\Dapper.dll
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\Teacher\bin\Debug\Dapper.xml
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\Teacher\obj\Debug\Teacher.csproj.CopyComplete

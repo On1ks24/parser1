@@ -1,0 +1,11 @@
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\DataAccessLayer\bin\Debug\Dapper.dll
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\DataAccessLayer\bin\Debug\Teacher.dll
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\DataAccessLayer\bin\Debug\Teacher.pdb
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\DataAccessLayer\bin\Debug\Dapper.xml
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

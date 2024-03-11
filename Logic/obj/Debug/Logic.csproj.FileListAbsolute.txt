@@ -1,0 +1,13 @@
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\Logic\bin\Debug\Logic.dll
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\Logic\bin\Debug\Logic.pdb
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\Logic\bin\Debug\Teacher.dll
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\Logic\bin\Debug\Teacher.pdb
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\Logic\obj\Debug\Logic.dll
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\Logic\obj\Debug\Logic.pdb
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\Logic\bin\Debug\Dapper.dll
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\Logic\bin\Debug\Dapper.xml
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\Logic\bin\Debug\DataAccessLayer.dll
+C:\Users\sarae\source\repos\semestr3\IT\HakatonItog\Logic\bin\Debug\DataAccessLayer.pdb
